@@ -43,7 +43,7 @@ A **mesh-based inlet enclosure** was designed to:
 
 ### Reference Instrument
 
-* Fidas 200 (for validation and calibration comparison)
+* Fidas 200 
 
 ### Weather Station Setup
 
